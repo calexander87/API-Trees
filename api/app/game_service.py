@@ -21,6 +21,7 @@ TEAM_NAMES = [
     "chestnut",
     "walnut",
     "peach",
+    "pineapple",
 ]
 
 
